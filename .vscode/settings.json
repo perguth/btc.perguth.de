@@ -1,0 +1,30 @@
+{
+  "IDX.aI.enableCodebaseIndexing": true,
+  "IDX.aI.enableInlineCompletion": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+
+  "deno.enable": true,
+  "deno.lint": true,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+
+  "css.customData": [
+    ".vscode/tailwind.json"
+  ],
+
+  "catppuccin-icons.hidesExplorerArrows": false,
+  "catppuccin-icons.specificFolders": true,
+  "catppuccin-icons.monochrome": false
+}
