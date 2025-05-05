@@ -32,7 +32,6 @@ export default defineRoute(async (_req, ctx) => {
           data-color-mode="auto"
           data-light-theme="light"
           data-dark-theme="dark"
-          // deno-lint-ignore react-no-danger
           dangerouslySetInnerHTML={{ __html: render(post.content) }}
         />
       </main>
