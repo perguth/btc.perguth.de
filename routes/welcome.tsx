@@ -54,10 +54,10 @@ function BitcoinWelcome() {
           <span className="text-orange-500">→</span>
         </a>
         <a
-          href="https://www.youtube.com/c/myetherwallet"
+          href="https://www.enkrypt.com/"
           className="flex justify-between items-center bg-gray-800 p-5 rounded-lg hover:scale-105 transition-transform shadow-md"
         >
-          <span className="font-medium">Wallet-Empfehlungen</span>
+          <span className="font-medium">Wallet-Empfehlung</span>
           <span className="text-orange-500">→</span>
         </a>
       </div>
